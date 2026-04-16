@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Format dataset/{app}/prompt.txt + icon.svg into ShareGPT JSONL for Unsloth."""
+"""Format dataset/{app}/prompt.txt + icon.svg into ShareGPT JSONL for Unsloth.
+
+Filters out examples that exceed MAX_TOKENS to avoid truncation during training.
+"""
 
 import json
 import random
 from pathlib import Path
+from transformers import AutoTokenizer
 
 REPO_ROOT = Path(__file__).parent.parent
 DATASET_DIR = REPO_ROOT / "dataset"
@@ -17,12 +21,18 @@ SYSTEM_PROMPT = (
     "the bottom for the characteristic pseudo-3D look. Output only the SVG code."
 )
 
+MAX_TOKENS = 4096
 TRAIN_SPLIT = 0.8
 SEED = 42
+TOKENIZER_NAME = "Qwen/Qwen2.5-Coder-7B-Instruct"
 
 
 def build_conversations():
+    print(f"Loading tokenizer: {TOKENIZER_NAME}")
+    tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_NAME)
+
     pairs = []
+    skipped = 0
     app_dirs = sorted(DATASET_DIR.iterdir())
 
     for app_dir in app_dirs:
@@ -38,6 +48,14 @@ def build_conversations():
         prompt = prompt_path.read_text().strip()
         svg = svg_path.read_text().strip()
 
+        # Check token length before including
+        full_text = SYSTEM_PROMPT + "\n" + prompt + "\n" + svg
+        token_count = len(tokenizer.encode(full_text))
+
+        if token_count > MAX_TOKENS:
+            skipped += 1
+            continue
+
         pairs.append({
             "conversations": [
                 {"from": "system", "value": SYSTEM_PROMPT},
@@ -46,6 +64,7 @@ def build_conversations():
             ]
         })
 
+    print(f"Kept {len(pairs)} examples, filtered {skipped} (over {MAX_TOKENS} tokens)")
     return pairs
 
 
@@ -57,7 +76,6 @@ def write_jsonl(data, path):
 
 def main():
     pairs = build_conversations()
-    print(f"Built {len(pairs)} conversation pairs")
 
     random.seed(SEED)
     random.shuffle(pairs)
