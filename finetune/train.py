@@ -24,13 +24,13 @@ TRAIN_FILE = str(REPO_ROOT / "finetune" / "train.jsonl")
 VAL_FILE = str(REPO_ROOT / "finetune" / "val.jsonl")
 OUTPUT_DIR = str(REPO_ROOT / "finetune" / "output")
 MODEL_NAME = "unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit"
-MAX_SEQ_LENGTH = 8192  # SVGs can be long
+MAX_SEQ_LENGTH = 4096  # SVGs avg ~2K tokens, 4096 gives headroom
 EPOCHS = 3
 BATCH_SIZE = 1
 GRAD_ACCUM = 4
 LEARNING_RATE = 2e-4
-LORA_R = 32
-LORA_ALPHA = 32
+LORA_R = 16
+LORA_ALPHA = 16
 
 # ---------- Load model ----------
 print("Loading model...")
@@ -48,7 +48,6 @@ model = FastLanguageModel.get_peft_model(
     target_modules=[
         "q_proj", "k_proj", "v_proj", "o_proj",
         "gate_proj", "up_proj", "down_proj",
-        "embed_tokens", "lm_head",
     ],
     lora_alpha=LORA_ALPHA,
     lora_dropout=0,
