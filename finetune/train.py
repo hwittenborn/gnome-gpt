@@ -111,7 +111,7 @@ trainer = SFTTrainer(
         output_dir=OUTPUT_DIR,
         optim="adamw_8bit",
         seed=42,
-        bf16=True,
+        fp16=True,
         dataset_num_proc=2,
     ),
 )
