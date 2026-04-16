@@ -1,0 +1,1 @@
+A tool for translating Qt application user interfaces into different languages. A globe or speech bubble with translation symbols, in green and blue tones.

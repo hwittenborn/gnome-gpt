@@ -1,0 +1,1 @@
+A compatibility layer for running Windows applications on Linux and other POSIX systems. A wine glass icon filled with deep red liquid, in classic burgundy and gold tones.

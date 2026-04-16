@@ -1,0 +1,1 @@
+A fast, modern code editor written in Rust with GPU-accelerated rendering. A stylized angular bracket or lightning bolt in blue and purple, suggesting speed and code.

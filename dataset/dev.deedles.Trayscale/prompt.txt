@@ -1,0 +1,1 @@
+An unofficial graphical interface and system tray utility for managing a mesh VPN network on Linux. A network mesh icon with nodes linked together, representing easy visual management of peer-to-peer VPN connectivity.

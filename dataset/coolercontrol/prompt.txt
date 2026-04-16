@@ -1,0 +1,1 @@
+A system cooling management tool for monitoring and controlling fans and pumps on Linux. A fan blade or cooling icon with temperature graph elements, representing precise hardware thermal management and fan speed control.

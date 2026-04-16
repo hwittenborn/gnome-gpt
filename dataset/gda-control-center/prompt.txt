@@ -1,0 +1,1 @@
+A configuration tool for managing database connection parameters and data source names. A database cylinder with a gear or settings cog overlay, rendered in neutral blue and gray tones, representing database access configuration.

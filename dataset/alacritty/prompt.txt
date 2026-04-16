@@ -1,0 +1,1 @@
+A GPU-accelerated terminal emulator. A dark rounded terminal window with an orange-to-red gradient frame, containing a bold white triangular "A" letterform with a bright spark at its peak, and horizontal scanlines across the surface.

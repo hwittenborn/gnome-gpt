@@ -1,0 +1,1 @@
+A tool for displaying and controlling Android devices from a desktop via USB or network. A phone screen mirrored onto a desktop monitor icon, in blue and green tones.

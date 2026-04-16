@@ -1,0 +1,1 @@
+A graphical interface for managing systemd services, timers, and units on Linux. A gear icon with a play/stop button overlay, in blue and gray tones suggesting system service management.

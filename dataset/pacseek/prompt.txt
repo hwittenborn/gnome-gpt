@@ -1,0 +1,1 @@
+A terminal-based package manager browser for Arch Linux repositories and the AUR. A magnifying glass over a package box icon, in blue and dark tones.

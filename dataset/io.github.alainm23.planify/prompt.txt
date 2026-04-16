@@ -1,0 +1,1 @@
+A task manager and to-do list application for GNOME with cloud sync support. A checklist or checkbox icon with a pencil or star element, rendered in warm orange and white tones, representing organized task planning.

@@ -1,0 +1,1 @@
+A graphical volume control panel for managing audio streams and output devices. A speaker icon with adjustable volume slider bars, in dark and blue tones.

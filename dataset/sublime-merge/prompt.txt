@@ -1,0 +1,1 @@
+A Git client with advanced diff viewing, merge conflict resolution, and repository management. A teal and dark icon with branching lines forming a Y-shape, suggesting version control merging.

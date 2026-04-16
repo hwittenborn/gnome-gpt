@@ -1,0 +1,1 @@
+A menu editor for the GNOME desktop environment. A simple notepad or list icon suggesting menu customization and application organization.

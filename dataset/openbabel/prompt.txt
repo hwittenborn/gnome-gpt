@@ -1,0 +1,1 @@
+A chemical toolbox for converting and analyzing molecular data formats. A molecular structure icon with connected atoms and bonds, in green and blue tones.

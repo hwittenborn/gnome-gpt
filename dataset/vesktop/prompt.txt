@@ -1,0 +1,1 @@
+A third-party desktop client for a popular gaming chat platform with Wayland and rich presence support. A purple and indigo stylized speech bubble or headphone icon with a modern, modified design.

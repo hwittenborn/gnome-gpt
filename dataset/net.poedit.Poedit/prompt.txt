@@ -1,0 +1,1 @@
+A translation editor for gettext PO files, used to localize software. A globe icon with a document and pencil overlay, in green and blue tones.

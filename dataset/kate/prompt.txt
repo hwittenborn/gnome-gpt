@@ -1,0 +1,1 @@
+An advanced text editor for KDE with syntax highlighting and multi-document support. A green leaf or quill shape next to a document icon, rendered in bright green on a dark background, representing a versatile text editing tool.

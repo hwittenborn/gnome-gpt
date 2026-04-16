@@ -1,0 +1,1 @@
+A universal document viewer supporting PDF, EPUB, and many other formats. An eye icon looking at an open document page, in blue and red tones.

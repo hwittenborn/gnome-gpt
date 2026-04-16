@@ -1,0 +1,1 @@
+A container-based tool for running Android applications on Linux using Wayland. A green Android robot icon inside a container or window frame, suggesting mobile apps on the desktop.

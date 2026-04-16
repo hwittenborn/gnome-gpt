@@ -1,0 +1,1 @@
+A 3D model editor designed for creating low-poly and block-style models, especially for games. A blue cube or voxel shape with visible edges, representing blocky 3D modeling and pixel-art-style game assets.

@@ -1,0 +1,1 @@
+A background service that connects encrypted email to standard desktop email clients via IMAP/SMTP. A bridge or gateway icon in purple, connecting an envelope to a mail client silhouette.

@@ -1,0 +1,1 @@
+A graphical tool for managing containers and container images on the desktop. A seal or walrus mascot icon in purple and blue, with a container box motif.

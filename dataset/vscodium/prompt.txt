@@ -1,0 +1,1 @@
+A community-driven, freely-licensed build of a popular code editor without telemetry. A blue angular bracket icon with a muted or open-source-styled color palette, similar to its parent editor.

@@ -1,0 +1,1 @@
+A GNOME app icon preview and design tool. A stylized application icon template with grid lines and a colorful sample icon shape, representing the process of designing and previewing desktop application icons.

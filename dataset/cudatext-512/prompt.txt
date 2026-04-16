@@ -1,0 +1,1 @@
+A cross-platform text and code editor with syntax highlighting and plugin support. A simple text cursor or code editing icon, representing a lightweight but extensible source code and plain text editor.

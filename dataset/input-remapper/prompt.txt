@@ -1,0 +1,1 @@
+A tool for remapping input device keys, buttons, and joystick axes. A keyboard key or gamepad button with a curved remapping arrow, rendered in teal and white, representing input device customization.

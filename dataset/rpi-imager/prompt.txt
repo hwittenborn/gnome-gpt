@@ -1,0 +1,1 @@
+A utility for writing operating system images to SD cards for single-board computers. A red raspberry fruit icon with an SD card or download arrow overlay.

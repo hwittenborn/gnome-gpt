@@ -1,0 +1,1 @@
+A free audio editor and recorder forked from a popular open-source audio tool. A blue and orange waveform icon with a microphone or headphone accent, on a dark background.

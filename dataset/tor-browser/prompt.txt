@@ -1,0 +1,1 @@
+A privacy-focused web browser that routes traffic through an onion-routing anonymity network. A purple and green globe icon wrapped in onion-like layers, suggesting layered encryption.

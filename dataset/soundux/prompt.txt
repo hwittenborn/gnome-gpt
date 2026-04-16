@@ -1,0 +1,1 @@
+A cross-platform soundboard application for playing audio clips to applications. A speaker icon with a grid of sound buttons, in purple and blue tones.

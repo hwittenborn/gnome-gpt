@@ -1,0 +1,1 @@
+An audio plugin host supporting many audio plugin formats on Linux. A gear or rack-unit icon with audio connectors, representing a modular audio plugin hosting environment for music production.

@@ -1,0 +1,1 @@
+A 3D printing slicer application for preparing models for FDM printers. A green stylized bamboo leaf or plant shape, representing the organic brand identity of the 3D printer manufacturer's software.

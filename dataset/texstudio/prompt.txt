@@ -1,0 +1,1 @@
+An integrated writing environment for creating LaTeX documents with real-time preview. A green document icon with LaTeX notation symbols and a pen or cursor.

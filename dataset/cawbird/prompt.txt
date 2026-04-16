@@ -1,0 +1,1 @@
+A native Linux client for a microblogging social media platform. A simple, friendly blue bird silhouette, representing social media microblogging and browsing on the desktop.

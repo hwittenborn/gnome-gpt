@@ -1,0 +1,1 @@
+A collaborative online spreadsheet application. A green document page icon with a grid of cells representing a spreadsheet, and a folded corner at the top right.

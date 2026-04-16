@@ -1,0 +1,1 @@
+A management tool for installing game engine versions and organizing game development projects. A dark gray rounded icon with a stylized U shape and a gear, suggesting project management.

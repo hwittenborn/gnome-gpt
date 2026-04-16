@@ -1,0 +1,1 @@
+An interactive process viewer and system monitor for the terminal. A dark terminal screen showing colorful horizontal bar graphs and CPU usage meters, rendered in green, cyan, and yellow on a black background.

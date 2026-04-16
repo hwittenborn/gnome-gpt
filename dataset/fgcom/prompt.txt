@@ -1,0 +1,1 @@
+A voice communication tool for flight simulator multiplayer, simulating realistic aviation radio. A headset or microphone icon overlaid on an aircraft silhouette, suggesting pilot-to-pilot radio communication.

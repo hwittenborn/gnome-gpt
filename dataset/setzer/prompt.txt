@@ -1,0 +1,1 @@
+A LaTeX document editor with an integrated preview for typesetting scientific papers. A document page with a sigma or LaTeX formula symbol, in green and white tones.

@@ -1,0 +1,1 @@
+A GPS daemon service that shares GPS data over a network. A satellite or GPS crosshair icon with signal waves, rendered in blue and white, representing location tracking and navigation data.

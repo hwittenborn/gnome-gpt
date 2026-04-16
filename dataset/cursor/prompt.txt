@@ -1,0 +1,1 @@
+An AI-powered code editor built for pair programming with artificial intelligence. A stylized text cursor or caret shape in a modern gradient, representing intelligent code completion and AI-assisted software development.

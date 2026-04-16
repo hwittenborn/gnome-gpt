@@ -1,0 +1,1 @@
+A 3D printing slicer that converts models into printer instructions with advanced settings. An orange hexagonal icon with layered horizontal slicing lines, representing 3D print layer preparation.

@@ -1,0 +1,1 @@
+A graphical tool for installing RPM software packages on Linux. A package box icon with an installation arrow, in red and blue tones.

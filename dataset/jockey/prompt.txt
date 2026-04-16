@@ -1,0 +1,1 @@
+A graphical tool for installing and managing third-party hardware drivers. A PCI card or hardware plug icon with a green checkmark or install arrow, representing device driver management and installation.

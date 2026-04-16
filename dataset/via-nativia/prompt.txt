@@ -1,0 +1,1 @@
+A keyboard remapping and configuration tool for custom mechanical keyboards. A single keycap icon viewed from above with customization arrows, in purple and white tones.

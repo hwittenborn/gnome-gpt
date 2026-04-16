@@ -1,0 +1,1 @@
+A desktop client for browsing a popular link-sharing and discussion platform. A newspaper or article headline icon with an upvote arrow, rendered in blue and white with orange accents, representing community-driven news aggregation.

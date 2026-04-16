@@ -1,0 +1,1 @@
+A camera controls application for adjusting webcam settings. A camera lens or webcam icon with adjustment sliders, rendered in clean blue and white tones, representing image and video capture settings.

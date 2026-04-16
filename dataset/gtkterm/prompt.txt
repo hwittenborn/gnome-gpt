@@ -1,0 +1,1 @@
+A GTK-based serial port terminal emulator. A terminal window icon with a serial connector or RS-232 cable symbol, rendered in dark gray and green, representing serial communication.

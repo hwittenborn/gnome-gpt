@@ -1,0 +1,1 @@
+A graphical tool for configuring the boot loader and boot menu entries. A boot menu or startup screen icon with a gear or settings cog, rendered in blue and gray, representing boot loader customization.

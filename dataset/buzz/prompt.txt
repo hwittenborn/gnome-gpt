@@ -1,0 +1,1 @@
+An offline audio transcription and translation tool powered by AI speech recognition. A bee-inspired icon in yellow and dark tones, representing the buzzing activity of converting speech to text locally on your device.

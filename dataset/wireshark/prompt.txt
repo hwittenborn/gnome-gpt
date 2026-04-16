@@ -1,0 +1,1 @@
+A network protocol analyzer for capturing and inspecting packet-level network traffic. A blue shark fin icon cutting through a wave, with network data lines beneath the surface.

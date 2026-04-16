@@ -1,0 +1,1 @@
+A configuration dialog for adjusting Windows compatibility layer settings. A wine glass icon with a gear or wrench overlay, in burgundy and gray tones.

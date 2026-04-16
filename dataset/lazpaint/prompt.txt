@@ -1,0 +1,1 @@
+A lightweight cross-platform raster image editor with layers, filters, and vector tools. A colorful paint splash or brush stroke icon on a canvas.

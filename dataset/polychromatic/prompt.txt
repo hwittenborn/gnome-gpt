@@ -1,0 +1,1 @@
+A graphical frontend for managing RGB lighting on peripherals and keyboards. A colorful chameleon or rainbow gradient icon with keyboard lighting elements.

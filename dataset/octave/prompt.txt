@@ -1,0 +1,1 @@
+A free numerical computation environment compatible with a popular commercial math language. A blue and orange diamond or hexagonal shape with oscillating wave lines inside.

@@ -1,0 +1,1 @@
+A cross-platform file and message sharing app that works over the local network without internet. Two device silhouettes with a bidirectional arrow between them, in blue and teal tones.

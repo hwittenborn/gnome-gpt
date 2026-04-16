@@ -1,0 +1,1 @@
+A system hardware profiling tool for controlling GPU and CPU settings on Linux. A gear or dial icon with performance graph elements, representing per-application hardware profile tuning for GPU clocks, fan curves, and CPU governors.

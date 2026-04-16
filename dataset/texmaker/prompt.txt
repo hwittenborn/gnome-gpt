@@ -1,0 +1,1 @@
+A cross-platform LaTeX editor with integrated PDF preview and syntax highlighting. A blue document icon with a stylized TeX formula or sigma symbol on it.

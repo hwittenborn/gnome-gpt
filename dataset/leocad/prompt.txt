@@ -1,0 +1,1 @@
+A CAD application for creating virtual building-brick models. A colorful 3D brick piece icon, resembling an interlocking toy block.

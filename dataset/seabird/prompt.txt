@@ -1,0 +1,1 @@
+A native desktop client for exploring and managing container orchestration clusters. A seabird silhouette flying over stylized ocean waves, in blue and white tones with a nautical theme.

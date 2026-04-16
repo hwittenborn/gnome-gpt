@@ -1,0 +1,1 @@
+A modern, intuitive terminal-based text editor with mouse support and easy keybindings. A small square bracket or cursor icon in blue and white, suggesting lightweight editing.

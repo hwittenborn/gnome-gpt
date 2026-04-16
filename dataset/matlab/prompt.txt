@@ -1,0 +1,1 @@
+A numerical computing platform for matrix operations, data analysis, and algorithm development. A stylized membrane or wave surface plot icon in orange and dark blue, resembling a 3D mathematical function.

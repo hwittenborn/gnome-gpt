@@ -1,0 +1,1 @@
+A remote control interface for an audio plugin host. A gear or rack-unit icon with a control knob overlay, representing remote management of audio plugins and signal routing.

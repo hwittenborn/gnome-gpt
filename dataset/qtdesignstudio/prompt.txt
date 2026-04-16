@@ -1,0 +1,1 @@
+A visual UI design and development tool for creating Qt Quick applications. A purple and blue rounded square with a design canvas and component layout, suggesting UI prototyping.

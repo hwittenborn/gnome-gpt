@@ -1,0 +1,1 @@
+A cross-platform email client supporting multiple mail providers. A blue envelope or mail icon with a modern, clean design, representing email management and communication.

@@ -1,0 +1,1 @@
+A graphical frontend for viewing GPU and graphics driver information. A stylized graphics card or GPU chip icon with information readout lines, rendered in vibrant colors, representing hardware diagnostics for OpenGL, Vulkan, and OpenCL.

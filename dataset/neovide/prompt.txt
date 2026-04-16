@@ -1,0 +1,1 @@
+A GPU-accelerated graphical frontend for a popular terminal text editor. A green angular V or chevron shape with smooth gradient glow effects, on a dark background.

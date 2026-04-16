@@ -1,0 +1,1 @@
+A music visualizer that generates real-time animated graphics from audio input. A swirling kaleidoscopic pattern or waveform icon in vibrant neon colors on a dark background.

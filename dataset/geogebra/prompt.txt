@@ -1,0 +1,1 @@
+An interactive mathematics application for geometry, algebra, and calculus. A blue circle with geometric construction lines, curves, and coordinate axes, representing dynamic mathematical visualization.

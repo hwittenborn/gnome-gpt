@@ -1,0 +1,1 @@
+A G-code viewer for previewing 3D printer toolpaths and layer-by-layer print paths. An orange hexagonal icon with a magnifying glass and colored path lines, showing print visualization.

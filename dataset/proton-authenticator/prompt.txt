@@ -1,0 +1,1 @@
+A two-factor authentication app for generating time-based one-time passwords. A shield with a keyhole or lock icon in purple tones, with a rotating code indicator.

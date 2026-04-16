@@ -1,0 +1,1 @@
+An IRC client written in Rust with a modern graphical interface. A squid or owl mascot icon in purple and blue tones, with chat bubble elements.

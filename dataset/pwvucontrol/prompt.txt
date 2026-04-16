@@ -1,0 +1,1 @@
+A volume control application for managing audio streams through PipeWire. A speaker icon with volume wave arcs and a mixing slider, in blue and dark tones.

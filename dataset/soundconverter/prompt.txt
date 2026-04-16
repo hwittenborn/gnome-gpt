@@ -1,0 +1,1 @@
+A graphical audio file format converter for batch transcoding music files. A musical note with circular conversion arrows, in blue and green tones.

@@ -1,0 +1,1 @@
+A graphical firewall management tool for configuring network rules. A shield icon with a brick wall pattern or network barrier, rendered in orange and brown tones, representing an uncomplicated firewall interface.

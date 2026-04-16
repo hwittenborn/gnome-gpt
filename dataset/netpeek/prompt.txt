@@ -1,0 +1,1 @@
+A modern network scanner for discovering devices and open ports on a local network. A magnifying glass over network nodes or a radar sweep icon, in blue and green tones.

@@ -1,0 +1,1 @@
+A software KVM switch for sharing a keyboard and mouse across multiple computers. A mouse cursor or keyboard icon with arrows pointing to multiple screens, rendered in blue and purple, representing cross-computer input sharing.

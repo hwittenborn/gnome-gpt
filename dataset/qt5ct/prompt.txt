@@ -1,0 +1,1 @@
+A configuration tool for adjusting Qt5 application appearance and theme settings. A gear or wrench icon with a Qt-style color palette swatch, in green and gray tones.

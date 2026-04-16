@@ -1,0 +1,1 @@
+A graphical tool for creating, designing, and editing SQLite database files. A cylindrical database icon with a magnifying glass or table grid, in blue and orange tones.

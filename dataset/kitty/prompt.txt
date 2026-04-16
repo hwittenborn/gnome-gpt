@@ -1,0 +1,1 @@
+A fast, GPU-accelerated terminal emulator. A cute cartoon cat face or kitty head icon with pointed ears, rendered in simple dark outlines on a light background, serving as the terminal's mascot.

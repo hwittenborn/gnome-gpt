@@ -1,0 +1,1 @@
+A graphical tool for managing virtual machines through a hypervisor. A desktop monitor icon with a smaller virtual monitor inside, in blue and red tones suggesting virtualization.

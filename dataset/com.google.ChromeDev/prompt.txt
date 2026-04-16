@@ -1,0 +1,1 @@
+A developer-channel build of a major web browser for testing cutting-edge features. A circular icon with red, green, yellow, and blue segments similar to the standard browser icon but with a distinct developer-oriented color treatment to indicate its unstable release channel.

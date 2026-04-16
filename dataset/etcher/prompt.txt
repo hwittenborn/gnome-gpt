@@ -1,0 +1,1 @@
+A tool for flashing OS images to USB drives and SD cards. A bolt of lightning or flash symbol on a teal and blue circular background, representing the process of writing disk images.

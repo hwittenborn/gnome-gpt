@@ -1,0 +1,1 @@
+A script-based 3D CAD modeler for creating solid geometry through code. A yellow 3D geometric shape like a cube with a cylinder subtracted, showing constructive solid geometry.

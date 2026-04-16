@@ -1,0 +1,1 @@
+A file manager running inside a Windows compatibility layer on Linux. A folder icon with a small wine glass badge, in yellow and burgundy tones.

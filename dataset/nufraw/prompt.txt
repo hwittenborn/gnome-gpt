@@ -1,0 +1,1 @@
+A utility for reading and processing raw image files from digital cameras. A camera aperture or lens icon with raw photo data, in orange and gray tones.

@@ -1,0 +1,1 @@
+A spreadsheet application within an office productivity suite. A green grid of cells with a small chart or sigma symbol, evoking data and calculations.

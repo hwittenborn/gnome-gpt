@@ -1,0 +1,1 @@
+A web browser variant tailored for web developers with extra debugging tools. A fox shape curled around a globe, rendered in blue and dark purple tones instead of the standard orange, distinguishing it as the developer-focused edition.

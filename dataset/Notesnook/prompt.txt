@@ -1,0 +1,1 @@
+A private, end-to-end encrypted note-taking application. A notebook or notepad icon with a lock symbol, in green and dark tones suggesting privacy.

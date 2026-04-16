@@ -1,0 +1,1 @@
+A GNOME puzzle game where players assemble molecules from atoms. Colorful spheres representing atoms connected by bonds, arranged in a molecular structure on a dark playfield background.

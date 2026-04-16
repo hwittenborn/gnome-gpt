@@ -1,0 +1,1 @@
+A lightweight, keyboard-driven document viewer with Vim-like keybindings. A minimal open book or document page icon in muted dark tones, with a zen-like simplicity.

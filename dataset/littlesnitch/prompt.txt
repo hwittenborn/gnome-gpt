@@ -1,0 +1,1 @@
+A network monitoring firewall that alerts users when applications try to connect to the internet. A small detective or watchful eye icon peering through a magnifying glass, in dark and orange tones.

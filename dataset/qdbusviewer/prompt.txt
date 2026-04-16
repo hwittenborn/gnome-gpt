@@ -1,0 +1,1 @@
+A graphical tool for introspecting D-Bus interfaces and services on Linux. A green tree or hierarchy icon representing D-Bus object paths, in a utility-style design.

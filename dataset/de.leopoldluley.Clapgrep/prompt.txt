@@ -1,0 +1,1 @@
+A graphical full-text search tool for finding content across documents and files. A magnifying glass icon over a document or text, representing fast, user-friendly searching through PDFs and text files on your filesystem.

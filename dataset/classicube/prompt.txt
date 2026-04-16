@@ -1,0 +1,1 @@
+A free, open-source voxel sandbox game inspired by early block-building games. A pixelated 3D cube or blocky character in bright colors, representing creative block-based world building.

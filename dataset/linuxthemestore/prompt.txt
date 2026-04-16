@@ -1,0 +1,1 @@
+A storefront application for browsing and installing desktop themes on Linux. A paint palette or color swatches icon with a shopping bag silhouette, in vibrant colors.

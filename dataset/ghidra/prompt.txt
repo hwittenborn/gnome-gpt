@@ -1,0 +1,1 @@
+A software reverse engineering framework for analyzing compiled code. A stylized dragon or serpent head in green and red tones, representing the powerful analysis of binary executables and malware.

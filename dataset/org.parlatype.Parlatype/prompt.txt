@@ -1,0 +1,1 @@
+An audio player designed for manual speech transcription, with playback speed controls. A headphone icon over a text document with a waveform, in blue and gray tones.

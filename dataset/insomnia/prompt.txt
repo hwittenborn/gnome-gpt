@@ -1,0 +1,1 @@
+An API client for designing, debugging, and testing REST and GraphQL APIs. A purple circle with a stylized crescent moon or abstract shape, representing a sleek development tool for HTTP requests.

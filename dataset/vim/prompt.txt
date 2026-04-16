@@ -1,0 +1,1 @@
+A highly configurable terminal-based text editor known for modal editing. A green diamond or V-shaped icon on a dark gray background, with sharp angular edges.

@@ -1,0 +1,1 @@
+A resource monitor showing CPU, memory, disk, network, and process usage in the terminal. A stylized system monitoring gauge or graph icon, representing real-time system performance metrics and process management.

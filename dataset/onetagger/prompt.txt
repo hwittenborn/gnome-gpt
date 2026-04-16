@@ -1,0 +1,1 @@
+A cross-platform music file tagger that fetches metadata from multiple online sources. A price tag or label icon overlaid on a musical note, in orange and teal tones.

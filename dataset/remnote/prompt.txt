@@ -1,0 +1,1 @@
+A note-taking and knowledge management app with spaced repetition flashcards built in. A brain or lightbulb icon with connected nodes, in blue and purple tones suggesting active recall learning.

@@ -1,0 +1,1 @@
+An IDE for programming microcontroller boards and electronics prototyping. A teal circular icon with an infinity symbol or stylized figure-eight, representing the continuous loop of embedded programming.

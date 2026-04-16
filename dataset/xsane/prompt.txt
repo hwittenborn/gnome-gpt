@@ -1,0 +1,1 @@
+A graphical frontend for controlling scanners and acquiring scanned images. A flatbed scanner icon with a beam of scanning light, in blue and gray tones.

@@ -1,0 +1,1 @@
+A helper tool for installing runtime libraries and tweaks for a Windows compatibility layer. A magic wand or wrench icon with a wine glass, in purple and burgundy tones.

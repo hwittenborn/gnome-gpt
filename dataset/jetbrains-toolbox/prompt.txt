@@ -1,0 +1,1 @@
+A manager application for installing and updating a suite of professional development IDEs. A red and white toolbox or grid of colored squares icon, representing a centralized hub for managing developer tools.

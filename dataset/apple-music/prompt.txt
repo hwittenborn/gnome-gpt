@@ -1,0 +1,1 @@
+A music streaming and library management service. A red-to-pink gradient background with a white musical note icon, representing music playback and listening.

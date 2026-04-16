@@ -1,0 +1,1 @@
+A GNOME system assistant or helper utility. A friendly, simple icon with a lightbulb or star shape, representing help and guidance within the desktop environment.

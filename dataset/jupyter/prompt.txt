@@ -1,0 +1,1 @@
+An interactive notebook environment for data science, scientific computing, and code experimentation. An orange circle with three orbiting smaller circles or dots, resembling a stylized planet with moons or an atomic model.

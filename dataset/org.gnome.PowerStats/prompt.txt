@@ -1,0 +1,1 @@
+A utility for viewing detailed power consumption and battery statistics. A battery icon with a graph or chart overlay, in green and gray tones showing power usage over time.

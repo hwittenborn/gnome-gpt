@@ -1,0 +1,1 @@
+A highly customizable music player for Linux with a plugin system and scripting support. A music note or audio waveform icon in vibrant, warm colors, representing flexible local music library playback.

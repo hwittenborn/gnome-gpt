@@ -1,0 +1,1 @@
+A utility for displaying technical metadata about audio and video files. A film frame or media file icon with an information "i" badge, in blue and gray tones.

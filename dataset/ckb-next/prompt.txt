@@ -1,0 +1,1 @@
+An open-source RGB keyboard and mouse driver for Corsair peripherals on Linux. A keyboard icon with colorful RGB lighting effects, representing customizable per-key illumination and peripheral configuration.

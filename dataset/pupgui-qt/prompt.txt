@@ -1,0 +1,1 @@
+A graphical tool for installing and managing compatibility layers and custom runtime tools for Linux gaming. A wine glass or game controller icon with a download arrow, in purple and blue tones.

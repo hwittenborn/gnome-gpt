@@ -1,0 +1,1 @@
+A knowledge management and note-taking app using linked Markdown files and a graph view. A dark purple or obsidian-black gemstone shape with a glowing faceted surface.

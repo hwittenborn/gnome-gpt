@@ -1,0 +1,1 @@
+An end-to-end encrypted messenger that does not require a phone number to register. A green speech bubble with a lock icon, suggesting anonymous private messaging.

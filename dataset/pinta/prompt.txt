@@ -1,0 +1,1 @@
+A simple drawing and image editing program inspired by classic paint applications. A paintbrush icon with a colorful palette in green, blue, and red tones.

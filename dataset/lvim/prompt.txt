@@ -1,0 +1,1 @@
+An opinionated, preconfigured distribution of a terminal-based text editor with IDE-like features. A green stylized angular letter shape on a dark background, suggesting code editing.

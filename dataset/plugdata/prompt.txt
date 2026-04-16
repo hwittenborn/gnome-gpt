@@ -1,0 +1,1 @@
+A visual audio programming environment based on a patching paradigm with a modern interface. A connected patch cable or node graph icon in blue and purple, suggesting audio signal flow.

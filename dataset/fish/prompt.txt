@@ -1,0 +1,1 @@
+A user-friendly interactive command-line shell. A stylized fish icon in warm reddish-orange tones, representing the friendly and colorful nature of this smart shell.

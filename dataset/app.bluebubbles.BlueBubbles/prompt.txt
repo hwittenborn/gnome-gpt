@@ -1,0 +1,1 @@
+A cross-platform iMessage client for non-Apple devices. A blue speech bubble icon, representing the signature blue chat bubbles of Apple's messaging service.

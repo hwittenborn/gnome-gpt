@@ -1,0 +1,1 @@
+A graphical database browser for viewing schemas, running queries, and managing data. A database cylinder or table grid icon with a magnifying glass or browse element, rendered in neutral blue and gray tones.

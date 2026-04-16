@@ -1,0 +1,1 @@
+A web browser based on Chromium with privacy-invasive features removed. A blue, red, yellow, and green circular icon with a muted or desaturated color palette, suggesting a de-branded browser.

@@ -1,0 +1,1 @@
+A cross-platform RGB lighting control application for peripherals and PC hardware. A glowing RGB color wheel or light strip icon cycling through red, green, and blue.

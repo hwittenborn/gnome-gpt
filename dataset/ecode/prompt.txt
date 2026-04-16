@@ -1,0 +1,1 @@
+A lightweight, hardware-accelerated code editor focused on responsiveness and performance. A simple text editor or code bracket icon in clean modern colors, suggesting speed and minimalism.

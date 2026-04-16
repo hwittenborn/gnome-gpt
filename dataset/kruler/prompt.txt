@@ -1,0 +1,1 @@
+An on-screen pixel ruler for measuring distances on the desktop. A horizontal ruler with pixel markings in a clean, minimal style.

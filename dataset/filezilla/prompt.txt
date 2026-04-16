@@ -1,0 +1,1 @@
+An FTP, FTPS, and SFTP file transfer client. A bold red stylized mascot figure or character icon, representing reliable file transfers between local and remote servers.

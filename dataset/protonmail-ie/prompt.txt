@@ -1,0 +1,1 @@
+A desktop import-export tool for migrating email data to and from an encrypted email service. A purple envelope with import/export arrows, suggesting mail data transfer.

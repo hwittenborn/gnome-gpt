@@ -1,0 +1,1 @@
+An open-source note-taking and to-do application with synchronization support. A blue and white notepad or document icon with a checkmark, representing organized notes and task management with end-to-end encryption.

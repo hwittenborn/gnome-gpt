@@ -1,0 +1,1 @@
+A graphical interface for a continuous peer-to-peer file synchronization tool. Two circular arrows forming a sync loop icon, in blue and green tones suggesting bidirectional file sharing.

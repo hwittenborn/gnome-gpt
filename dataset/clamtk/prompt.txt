@@ -1,0 +1,1 @@
+A graphical front-end for an open-source antivirus engine on Linux. A shield or virus-scanning icon with a protective emblem, representing malware detection and system security scanning.

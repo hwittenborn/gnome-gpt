@@ -1,0 +1,1 @@
+A desktop wiki and note-taking application that stores pages as plain text files. A notebook icon with a pen and wiki-style linked page tabs, in yellow and blue tones.

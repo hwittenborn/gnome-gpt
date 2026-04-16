@@ -1,0 +1,1 @@
+A scalable vector graphics editor for creating and editing SVG files. A colorful geometric box or square shape with vector path elements, representing SVG design and vector illustration tools.

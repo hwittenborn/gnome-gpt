@@ -1,0 +1,1 @@
+A remote access and support application for controlling computers over the internet. A blue icon with two overlapping directional arrows forming a monitor connection motif.

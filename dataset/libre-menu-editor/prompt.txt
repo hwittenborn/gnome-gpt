@@ -1,0 +1,1 @@
+A graphical editor for customizing desktop application menus and launchers. A grid of app tiles with a pencil overlay, in neutral and accent colors.

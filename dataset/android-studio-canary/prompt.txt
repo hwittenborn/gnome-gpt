@@ -1,0 +1,1 @@
+The early-access preview build of an Android app development IDE. A yellow-tinted compass-like drafting tool icon with a circular protractor shape, indicating its canary preview release channel.

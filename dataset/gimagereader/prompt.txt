@@ -1,0 +1,1 @@
+A graphical frontend for OCR text recognition from images and PDFs. A document page with a magnifying glass or scanning eye element, rendered in blue and white, representing optical character recognition.

@@ -1,0 +1,1 @@
+A remote desktop client supporting multiple protocols including RDP, VNC, and SSH. A monitor screen with a connection or remote arrow icon, in green and blue tones.

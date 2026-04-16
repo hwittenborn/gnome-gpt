@@ -1,0 +1,1 @@
+A graphical drag-and-drop file upload tool for cloud storage services. A cloud icon with an upward arrow or shuttle shape, rendered in blue and white, representing easy file transfers to remote storage.

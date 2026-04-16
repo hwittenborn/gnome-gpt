@@ -1,0 +1,1 @@
+A graphical package manager for installing and updating software on Arch-based Linux distributions. A green shopping bag or package box icon with a download arrow, in a clean flat style.

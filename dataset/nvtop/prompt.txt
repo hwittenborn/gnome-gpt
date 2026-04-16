@@ -1,0 +1,1 @@
+A terminal-based GPU process and usage monitor. A bar graph or usage meter icon in green and dark tones, showing GPU utilization metrics.

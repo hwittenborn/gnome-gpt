@@ -1,0 +1,1 @@
+A cloud storage and file synchronization service with end-to-end encryption. A bold red circle with a stylized upward-pointing arrow or letter M shape inside.

@@ -1,0 +1,1 @@
+A graphical disk partition editor for managing hard drive partitions. A hard disk icon divided into colored segments representing different partitions, with a small gear or resize handle, rendered in blue and orange tones.

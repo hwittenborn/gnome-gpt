@@ -1,0 +1,1 @@
+A web-based graphical interface for managing Linux servers and containers. A cockpit dashboard gauge or steering wheel icon in blue and dark tones, suggesting system administration.

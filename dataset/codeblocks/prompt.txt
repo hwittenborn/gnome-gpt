@@ -1,0 +1,1 @@
+A free, open-source cross-platform IDE for C, C++, and Fortran development. A green and white icon featuring interlocking code block shapes or brackets, representing modular code building and compilation.

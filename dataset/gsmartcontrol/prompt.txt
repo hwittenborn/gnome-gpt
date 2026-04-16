@@ -1,0 +1,1 @@
+A graphical hard disk health inspection tool using SMART data. A hard disk drive icon with a green checkmark or health status indicator, representing disk monitoring and diagnostic analysis.

@@ -1,0 +1,1 @@
+An unofficial cross-platform download and upload manager for a cloud storage service. A bold icon with a download arrow or cloud storage symbol, representing bulk file transfer and cloud downloading capabilities.

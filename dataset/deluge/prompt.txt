@@ -1,0 +1,1 @@
+A lightweight, cross-platform BitTorrent client. A blue raindrop or water droplet with a stylized torrent symbol, representing the deluge of data flowing through peer-to-peer file sharing.

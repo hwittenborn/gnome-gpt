@@ -1,0 +1,1 @@
+A free, open-source, low-latency voice chat application designed for gaming. A microphone or headset icon in gray and blue tones, with sound wave indicators.

@@ -1,0 +1,1 @@
+A native GTK4 desktop client for a popular mobile messaging service. A green speech bubble or phone icon with a chat symbol, representing a desktop messaging experience with voice and video call support.

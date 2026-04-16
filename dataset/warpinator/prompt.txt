@@ -1,0 +1,1 @@
+A tool for sending and receiving files between computers on the same local network. Two computer icons with a bidirectional file transfer arrow between them, in green and blue tones.

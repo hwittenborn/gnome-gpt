@@ -1,0 +1,1 @@
+A music player and collection organizer forked from a classic Qt-based player. A red strawberry fruit icon with a green leaf on top, in bright cheerful colors.

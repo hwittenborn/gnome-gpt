@@ -1,0 +1,1 @@
+A simple text editor running inside a Windows compatibility layer on Linux. A notepad icon with horizontal lines and a wine glass badge, in white and burgundy tones.

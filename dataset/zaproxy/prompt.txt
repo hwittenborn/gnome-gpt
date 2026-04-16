@@ -1,0 +1,1 @@
+A web application security testing tool for finding vulnerabilities in web apps. A blue and orange shield with a lightning bolt or radar sweep, suggesting security scanning.

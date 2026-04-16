@@ -1,0 +1,1 @@
+A hardware locality and topology visualization tool. A hierarchical tree diagram or CPU socket layout showing cores and caches, rendered in blue and gray, representing hardware architecture mapping.

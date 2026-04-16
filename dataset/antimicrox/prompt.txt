@@ -1,0 +1,1 @@
+A graphical tool for mapping gamepad buttons to keyboard and mouse controls. A gamepad controller icon with directional arrows, representing input remapping and controller-to-keyboard translation.

@@ -1,0 +1,1 @@
+A graphical interface for managing Linux distribution containers via Distrobox. A friendly box-shaped character or container icon, representing the management of containerized Linux environments in a user-friendly way.

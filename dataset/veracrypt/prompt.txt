@@ -1,0 +1,1 @@
+A disk encryption utility for creating encrypted volumes and securing entire drives. A blue shield icon with a padlock and key, suggesting strong volume encryption.

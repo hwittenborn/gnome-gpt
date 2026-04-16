@@ -1,0 +1,1 @@
+A lightweight, modular audio player for Linux. A dark icon with a hexadecimal code reference or abstract audio-themed shape, representing a minimal and efficient music playback experience.

@@ -1,0 +1,1 @@
+A compatibility layer for running a popular online multiplayer gaming platform on Linux. A blue hexagonal or circular icon with a play button, suggesting game runtime compatibility.

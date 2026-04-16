@@ -1,0 +1,1 @@
+A molecular editor and visualization application for computational chemistry. A 3D molecular structure with colorful atom spheres and chemical bonds, representing molecular modeling and scientific visualization.

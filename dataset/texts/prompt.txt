@@ -1,0 +1,1 @@
+A unified inbox application that aggregates messages from multiple messaging platforms into one interface. A stack of overlapping speech bubble icons in various colors, merging into a single conversation view.

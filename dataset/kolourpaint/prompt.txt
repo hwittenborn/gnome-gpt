@@ -1,0 +1,1 @@
+A simple raster image editor for drawing and basic image manipulation. A paintbrush or painting palette icon in bright, friendly colors.

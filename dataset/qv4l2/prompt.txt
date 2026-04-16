@@ -1,0 +1,1 @@
+A test utility for Video4Linux2 devices such as webcams and capture cards. A camera or video capture device icon with a test pattern, in blue and gray tones.

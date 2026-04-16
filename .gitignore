@@ -1,0 +1,9 @@
+# Training outputs
+finetune/output/
+finetune/model/
+finetune/model-gguf/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,1 @@
+A hardware-accelerated GPU terminal emulator built with Rust and WebGPU. A stylized waveform or river flowing through a terminal window, in blue and teal gradient tones.

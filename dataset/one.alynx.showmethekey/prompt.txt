@@ -1,0 +1,1 @@
+A screencast utility that displays pressed keyboard keys as an overlay on the desktop. A floating keyboard key or keycap icon in blue and white, with a subtle glow effect.

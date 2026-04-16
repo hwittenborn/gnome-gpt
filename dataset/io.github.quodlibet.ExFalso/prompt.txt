@@ -1,0 +1,1 @@
+An audio metadata tag editor supporting multiple formats. A music note or audio file icon with a tag label or editing pencil, rendered in blue and orange, representing the editing of song metadata.

@@ -1,0 +1,1 @@
+A peer-to-peer file sharing client for the Soulseek network, focused on music. A cigarette or stylized N icon in red and gold tones, with a sharing or download motif.

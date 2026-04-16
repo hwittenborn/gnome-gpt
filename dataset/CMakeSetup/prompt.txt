@@ -1,0 +1,1 @@
+A build system generator and configuration tool for C/C++ projects. A red triangular or angular shape forming a stylized logo, representing cross-platform build configuration and compilation management.

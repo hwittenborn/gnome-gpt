@@ -1,0 +1,1 @@
+A help viewer for the Windows compatibility layer on Linux. A wine glass icon with a question mark or book overlay, in burgundy and blue tones.

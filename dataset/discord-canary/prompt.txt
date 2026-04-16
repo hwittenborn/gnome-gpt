@@ -1,0 +1,1 @@
+An early-access testing build of a popular voice and text chat platform. A yellow-orange tinted version of the platform's smiling game controller face icon on a circle, indicating its canary alpha release channel for testing new features.

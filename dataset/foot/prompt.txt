@@ -1,0 +1,1 @@
+A fast, lightweight Wayland terminal emulator. A minimal terminal prompt icon or command-line cursor shape, rendered in clean monochrome or muted tones, emphasizing simplicity and speed.

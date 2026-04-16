@@ -1,0 +1,1 @@
+A utility for removing Windows applications installed under a compatibility layer on Linux. A wine glass icon with a red X or removal arrow, in burgundy and red tones.

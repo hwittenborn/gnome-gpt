@@ -1,0 +1,1 @@
+A graphical interface for generating software token one-time passwords for VPN authentication. A key or token icon with a rotating number display, in blue and gray tones.

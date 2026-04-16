@@ -1,0 +1,1 @@
+A low-level graphical control and debugging tool for the PipeWire multimedia server. A copper-colored pipe or plumbing-themed icon with audio node connections, representing the inspection and configuration of multimedia audio routing.

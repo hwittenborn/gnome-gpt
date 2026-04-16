@@ -1,0 +1,1 @@
+A graphical Git client for managing repositories and collaboration. A stylized octocat silhouette or branching diagram icon in purple and white on a dark background, representing version control and code collaboration.

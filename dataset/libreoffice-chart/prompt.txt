@@ -1,0 +1,1 @@
+A charting and graph module within an office productivity suite. A colorful bar chart or pie chart icon representing data visualization.

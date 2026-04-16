@@ -1,0 +1,1 @@
+A professional IDE for data science and machine learning with Jupyter notebook support. A bold stylized "DS" letterform on a teal and green gradient background, representing data analysis, visualization, and scientific computing.

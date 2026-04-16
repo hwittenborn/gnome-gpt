@@ -1,0 +1,1 @@
+An Android device emulator for app testing and development. A stylized Android robot or device screen icon in warm orange and red tones, representing virtual mobile device simulation.

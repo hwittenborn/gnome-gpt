@@ -1,0 +1,1 @@
+A framework for building cross-platform desktop applications with web technologies. A stylized atom symbol with orbital rings and a central nucleus, rendered in cool blue and teal tones.

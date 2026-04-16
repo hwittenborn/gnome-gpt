@@ -1,0 +1,1 @@
+A high-performance collaborative code editor with GPU-accelerated rendering. A blue and purple Z-shaped icon with a lightning bolt accent, suggesting fast code editing.

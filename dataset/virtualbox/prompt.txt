@@ -1,0 +1,1 @@
+A virtualization platform for running guest operating systems inside virtual machines. A blue cube icon with rounded edges sitting in a box outline, suggesting a contained virtual environment.

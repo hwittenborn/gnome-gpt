@@ -1,0 +1,1 @@
+A free open-source DJ mixing application with turntable and controller support. Two overlapping vinyl records or turntables in black and blue, with crossfader elements.

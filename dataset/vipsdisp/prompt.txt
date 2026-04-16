@@ -1,0 +1,1 @@
+A fast image viewer optimized for very large images using the VIPS library. A magnifying glass over a large image thumbnail icon, in blue and gray tones.

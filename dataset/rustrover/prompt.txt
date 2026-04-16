@@ -1,0 +1,1 @@
+A dedicated IDE for Rust programming language development. An orange and red gear or rover wheel icon inside a rounded square, suggesting Rust code editing.

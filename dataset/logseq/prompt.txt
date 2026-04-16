@@ -1,0 +1,1 @@
+A privacy-first knowledge management and note-taking application using an outliner and graph structure. A connected node graph icon in green and dark tones, suggesting linked knowledge.

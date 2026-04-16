@@ -1,0 +1,1 @@
+A frontend for emulators and game engines that plays retro games across many platforms. A stylized retro gamepad or joypad icon in red, white, and black, with a circular design.

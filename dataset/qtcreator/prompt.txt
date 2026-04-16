@@ -1,0 +1,1 @@
+A cross-platform IDE for C++ and Qt application development. A green circular icon with a stylized code editor window or gear motif inside.

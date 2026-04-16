@@ -1,0 +1,1 @@
+An application for maps and navigation using various online and offline map providers. A location pin on a folded map icon in blue and red tones, with route lines.

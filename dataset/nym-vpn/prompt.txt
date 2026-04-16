@@ -1,0 +1,1 @@
+A privacy VPN client that routes traffic through a decentralized mixnet. A shield icon with layered network nodes inside, in orange and dark tones suggesting anonymity.

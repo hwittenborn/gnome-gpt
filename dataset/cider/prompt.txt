@@ -1,0 +1,1 @@
+A cross-platform client for streaming music from Apple's music service on Linux. A stylized apple cider drink or apple icon, representing an alternative way to enjoy music streaming on non-Apple platforms.

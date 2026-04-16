@@ -1,0 +1,1 @@
+A system restore and backup utility that creates filesystem snapshots. A clock with a circular rewind arrow icon, in blue and green tones suggesting time-based recovery.

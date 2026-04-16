@@ -1,0 +1,1 @@
+A graphical network diagnostic tool for ping, traceroute, and DNS lookups. A network cable plug or globe with connection nodes, rendered in blue and gray tones, representing network troubleshooting and analysis.

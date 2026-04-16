@@ -1,0 +1,1 @@
+A fast network scanner for IP addresses and ports. A red angry-faced circular character, conveying an aggressive scanning attitude in a playful way.

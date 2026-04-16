@@ -1,0 +1,1 @@
+A desktop synchronization client for an encrypted cloud storage service. A bold red circle with a white upward arrow or stylized M inside, with sync arrows.

@@ -1,0 +1,1 @@
+A security-hardened Chromium-based web browser for Linux with enhanced exploit mitigations. A triangular shield icon in blue and silver tones, suggesting three-fold security hardening.

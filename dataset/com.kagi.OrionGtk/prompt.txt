@@ -1,0 +1,1 @@
+A privacy-focused web browser built with GTK and WebKit for Linux. A bold, stylized constellation or star shape in deep blue and purple, representing stellar navigation of the web with strong privacy features.

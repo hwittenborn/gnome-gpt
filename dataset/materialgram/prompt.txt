@@ -1,0 +1,1 @@
+A messaging client fork with a Material Design interface and visual enhancements. A paper airplane icon redesigned with Material Design rounded corners and soft shadows, in blue and white.

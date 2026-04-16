@@ -1,0 +1,1 @@
+An electronic circuit simulator with a graphical schematic editor. A circuit diagram with resistors and capacitors icon, in blue and gray with electrical schematic styling.

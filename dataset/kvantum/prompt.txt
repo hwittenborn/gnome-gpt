@@ -1,0 +1,1 @@
+A theme engine for styling Qt applications with SVG-based decorations. A stylized letter Q or decorative paint swatch in purple and blue tones.

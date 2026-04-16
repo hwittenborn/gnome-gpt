@@ -1,0 +1,1 @@
+A decentralized messaging app that uses email infrastructure for chat communication. A blue and purple speech bubble with a delta triangle symbol, representing encrypted chat messages sent over standard email protocols.

@@ -1,0 +1,1 @@
+A music streaming service focused on songs, albums, and music videos. A red rounded rectangle with a white play button triangle and a musical note overlay.

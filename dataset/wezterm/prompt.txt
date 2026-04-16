@@ -1,0 +1,1 @@
+A GPU-accelerated terminal emulator with multiplexing and extensive configuration. A stylized terminal prompt or angular bracket icon in warm orange and dark tones, with a modern feel.

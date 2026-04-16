@@ -1,0 +1,1 @@
+A multiplayer server for a free civilization-building strategy game. A globe or world map with a network or server node symbol, representing the hosting of multiplayer civilization-building sessions.

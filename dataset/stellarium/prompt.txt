@@ -1,0 +1,1 @@
+A planetarium application that renders a realistic night sky in 3D. A dark blue dome or telescope icon with bright stars and constellation lines.

@@ -1,0 +1,1 @@
+A keyboard-driven web browser with Vim-style keybindings and a minimal interface. A blue globe or world icon with a subtle keyboard or colon-command prompt motif.

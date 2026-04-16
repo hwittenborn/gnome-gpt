@@ -1,0 +1,1 @@
+A visual web scraping tool that extracts data from websites without coding. A spider or funnel icon with data flowing through it, in blue and green tones.

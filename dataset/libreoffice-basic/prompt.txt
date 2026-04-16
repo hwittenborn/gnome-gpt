@@ -1,0 +1,1 @@
+An integrated development environment for writing macros in an office suite. A curly-brace or code snippet icon in yellow-gold tones on a document background.

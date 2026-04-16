@@ -1,0 +1,1 @@
+A CD ripping application that extracts audio tracks from compact discs. A compact disc icon being squeezed by a juicer or with liquid drops, in orange and silver tones.

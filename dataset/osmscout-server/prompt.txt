@@ -1,0 +1,1 @@
+An offline map tile, search, and routing server using OpenStreetMap data. A folded map icon with a location pin and compass rose, in green and blue tones.

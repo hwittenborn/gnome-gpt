@@ -1,0 +1,1 @@
+A UI form designer tool for creating graphical user interfaces with the Qt framework. A stylized pen or design tool with a form layout grid, representing visual drag-and-drop GUI widget arrangement and interface design.

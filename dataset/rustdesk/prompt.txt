@@ -1,0 +1,1 @@
+An open-source remote desktop application with self-hosting support. A monitor with a remote connection arrow icon, in orange and blue tones.

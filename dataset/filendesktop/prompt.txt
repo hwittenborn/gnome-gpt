@@ -1,0 +1,1 @@
+An end-to-end encrypted cloud storage desktop client. A shield or cloud icon with a lock symbol, rendered in blue and dark tones, representing secure file synchronization and privacy.

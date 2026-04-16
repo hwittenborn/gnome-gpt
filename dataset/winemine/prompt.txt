@@ -1,0 +1,1 @@
+A minesweeper game running inside a Windows compatibility layer. A grid of squares with a mine bomb icon and a wine glass badge, in gray and red tones.

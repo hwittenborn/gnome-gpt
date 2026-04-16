@@ -1,0 +1,1 @@
+A desktop editor for OpenStreetMap geographic data. A globe or map icon with editing tools like a pencil or node cursor, rendered in green and blue, representing collaborative map editing.

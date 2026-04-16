@@ -1,0 +1,1 @@
+A multitrack audio and MIDI sequencer and recording application for Linux. A reel-to-reel tape recorder icon or a multitrack timeline, in blue and dark tones.

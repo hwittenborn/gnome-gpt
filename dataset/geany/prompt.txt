@@ -1,0 +1,1 @@
+A lightweight and fast IDE and text editor using GTK. A small cartoon fly or winged insect mascot in blue and white, perched above a document or text icon, representing a nimble development tool.

@@ -1,0 +1,1 @@
+A graphical interface for an application-level firewall that monitors outbound connections. A shield icon with a network or flame motif, in green and dark tones suggesting security monitoring.

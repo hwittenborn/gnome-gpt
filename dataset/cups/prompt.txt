@@ -1,0 +1,1 @@
+A printing system and service for managing printers on Unix-like operating systems. A coffee cup icon with a steaming top, representing the printing service's long-standing cup-themed branding on Linux systems.

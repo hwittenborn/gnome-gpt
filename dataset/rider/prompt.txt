@@ -1,0 +1,1 @@
+A cross-platform IDE for .NET and game engine development. A red and orange angular icon inside a rounded square, suggesting C# and .NET code editing.

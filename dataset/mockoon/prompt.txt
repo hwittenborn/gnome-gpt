@@ -1,0 +1,1 @@
+A desktop application for quickly creating mock REST API servers. A purple and white icon featuring a stylized cloud or server with curly braces, suggesting API endpoints.

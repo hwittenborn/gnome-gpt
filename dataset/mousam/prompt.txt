@@ -1,0 +1,1 @@
+A weather forecast application for the Linux desktop showing conditions and forecasts. A sun partially behind a cloud icon in blue and yellow tones, with a modern flat style.

@@ -1,0 +1,1 @@
+A DVI document viewer for displaying typeset TeX and LaTeX output. A magnifying glass over a document page with TeX-formatted text, in blue and gray tones.

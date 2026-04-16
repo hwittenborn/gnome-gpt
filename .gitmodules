@@ -1,0 +1,3 @@
+[submodule "vendor/MoreWaita"]
+	path = vendor/MoreWaita
+	url = https://github.com/somepaulo/MoreWaita.git
